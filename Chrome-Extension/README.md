@@ -1,14 +1,23 @@
+## To run the chrome extension follow the below commands 
+
 ### First run
-`npm install`
+
+```sh
+npm install
+```
 
 ### Update src/firebase.js config.
 
 ### Run 
-
-`npm run dev`
+```sh
+npm run dev
+```
 
 ### or 
 
-`npm run build `
+```sh
+npm run build 
+```
+
 
 To create a buld which will output to dist/ to output into chrome as you usually would.
