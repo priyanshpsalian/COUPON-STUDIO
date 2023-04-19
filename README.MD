@@ -74,7 +74,7 @@ Our platform integrates with third-party services such as Google Analytics and F
 
 <br>
 
-<img src='assets/3.jpg' alt='Start Exam' >
+<img src='images/3.jpg' alt='Start Exam' >
 
 
 <br />
