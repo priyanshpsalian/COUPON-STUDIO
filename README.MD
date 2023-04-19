@@ -55,15 +55,13 @@ Our platform integrates with third-party services such as Google Analytics and F
 <p align="left">
   <img src='assets/1.jpg' alt='Intro Screen'>
 </p>
-
-<br />
 <br />
 
 **Register & Login**
 <br />
 
 <p align="left">
-  <img src='assets/11.jpg' alt='Intro Screen'>
+  <img src='assets/11.jpg' alt='Register & Login'>
 </p>
 
 <br />
@@ -74,7 +72,7 @@ Our platform integrates with third-party services such as Google Analytics and F
 
 <br>
 
-<img src='images/3.jpg' alt='Start Exam' >
+<img src='assets/3.jpg' alt='Static Coupon Generation' >
 
 
 <br />
