@@ -29,8 +29,8 @@ const UserSpecificRouter = require("./router/userSpecific.router");
 const GiftCardRouter = require("./router/giftCard.router");
 const MerchantRouter = require("./router/api.router");
 mongoose
-  .connect("mongodb://localhost:27017/coupon", {
-    // .connect("mongodb+srv://hemloworld:1234@cluster0.rcn3htc.mongodb.net/?retryWrites=true&w=majority", {
+  // .connect("mongodb://localhost:27017/coupon", {
+    .connect("mongodb+srv://hemloworld:1234@cluster0.rcn3htc.mongodb.net/?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     // useCreateIndex: true,
